@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arnav-garg-5b818826b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-garg-5b818826b" height="30" width="40" /></a>
-<a href="https://www.instagram.com/arnav526/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnav526" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/arnav2004garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arnav2004garg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/HHPVUP7WXW/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HHPVUP7WXW" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vanshika-pal-78b1bb228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika-pal-78b1bb228" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vanshikapal880/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanshikapal880" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vanshikapal8126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vanshikapal8126" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vanshika_pal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshika_pal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
