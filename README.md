@@ -1,16 +1,16 @@
 ![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
-<h1 align="center">Hi 👋, I'm Arnav Garg</h1>
+<h1 align="center">Hi 👋, I'm VANSHIKA PAL</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg">
 
-- 🔭 I’m currently working on **java**
+- 🔭 I’m currently working on **REACT JS**
 
-- 🌱 I’m currently learning **node JS**
+- 🌱 I’m currently learning **POWER BI**
 
 - 💬 Ask me about **C language**
 
-- 📫 How to reach me **arnav2004garg@gmail.com**
-- 🚀 portfolio **https://arnavgargcoder.github.io/**
+- 📫 How to reach me **VANSHIKAPAL8126@gmail.com**
+- 🚀 portfolio ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
